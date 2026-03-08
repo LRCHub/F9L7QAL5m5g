@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "BUMP OF CHICKEN『sailing day』",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-03-08T16:16:24.354539Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BUMP OF CHICKEN『sailing day』",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_BUMP_OF_CHICKEN『sailing_day』_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BUMP OF CHICKENのテーマ",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_BUMP_OF_CHICKENのテーマ_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
